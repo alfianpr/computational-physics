@@ -1,2 +1,2 @@
 # computational-physics
-Solving mathematical equation in physics field using Python.
+Solving mathematical equation in physics phenomena using Python.
